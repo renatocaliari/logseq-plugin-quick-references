@@ -22,3 +22,11 @@ Note the 3 lines under "Quick Reference". Each one corresponding to each slash c
 
 So, when you are typing and want to mention some page set in the Contents, you just need to use those commands.
 It allowed me easily to change the references when needed.
+
+## Example on interstitial-journaling where I could use quick reference to mention some project or tag
+
+- 09:33 [[life/project/ABC]] doing something 
+- 09:41 researching about xyz.
+- 09:50 scrolling on twitter.
+- 09:57 focusing again on [[life/project/ABC]]
+- 10:18 #[[life/health/emotions]] feeling excited because...
