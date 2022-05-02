@@ -13,12 +13,12 @@ Initially I did 3 slash commands to each of my most important things to the mome
 Each command get the related reference from the page "Contents" under some parent block named "Quick References".
 All you need is to create something in the Contents page like this example:
 
-- Quick Reference
+- Quick References
   - [[my most used page on this week]]
   - #[[my-special-tag]]
   - anything else
 
-Note the 3 lines under "Quick Reference". Each one corresponding to each slash command at the same order: /1 Quick Reference, /2 Quick Reference and /3 Quick Reference.
+Note the 3 lines under "Quick References". Each one corresponding to each slash command at the same order: /1 Quick Reference, /2 Quick Reference and /3 Quick Reference.
 
 So, when you are typing and want to mention some page set in the Contents, you just need to use those commands.
 It allowed me easily to change the references when needed.
