@@ -33,4 +33,4 @@ It allowed me easily to change the references when needed.
 
 # Credits
 
-Thunder icon created by [Smashicons - Flaticon]("https://www.flaticon.com/free-icons/thunder")
+Thunder icon created by [Smashicons - Flaticon](https://www.flaticon.com/free-icons/thunder)
