@@ -30,3 +30,7 @@ It allowed me easily to change the references when needed.
 - 09:50 scrolling on twitter.
 - 09:57 focusing again on [[life/project/ABC]]
 - 10:18 #[[life/health/emotions]] feeling excited because...
+
+# Credits
+
+Thunder icon created by [Smashicons - Flaticon]("https://www.flaticon.com/free-icons/thunder")
