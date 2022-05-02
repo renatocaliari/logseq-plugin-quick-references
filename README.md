@@ -10,8 +10,8 @@ Initially I did 3 slash commands to each of my most important things to the mome
 - /2 Quick Reference
 - /3 Quick Reference
 
-Each command get the related reference from the page "Contents" under some block named "Quick References".
-All you need is to create something like that in the Contents page:
+Each command get the related reference from the page "Contents" under some parent block named "Quick References".
+All you need is to create something in the Contents page like this example:
 
 - Quick Reference
   - [[my most used page on this week]]
