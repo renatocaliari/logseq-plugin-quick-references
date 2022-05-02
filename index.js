@@ -27,12 +27,14 @@ async function insertQuickReference(e, idxReference) {
       "The parent block 'Quick References' wasn't found on Contents page",
       'warning'
     );
+
     logseq.Editor.insertAtEditingCursor("😔");
   } else if (!foundReference) {
     logseq.App.showMsg(
       "The reference " + idxReference + " was not found under parent block 'Quick References'",
       'warning'
     );
+
     logseq.Editor.insertAtEditingCursor("😔");
   }
 
