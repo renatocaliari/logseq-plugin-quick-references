@@ -4,7 +4,7 @@ This plugin came out of my need doing [interstitial-journaling](https://nesslabs
 I'd like to avoid to type those things every time I changed the focus and subject on my journal, e.g. life/project/ABC or life/health/emotions, etc.
 
 # Using 
-![Using this plugin](using.fig)
+![Using this plugin](./using.gif)
 
 So I thought that I could have a quick slash command or shortcut.
 Initially I did slash commands from 1 to 9 quick references for each of my most important things to the moment:
