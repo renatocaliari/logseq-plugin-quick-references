@@ -8,8 +8,7 @@
 
 # Context
 
-This plugin came out of my need doing [interstitial-journaling](https://nesslabs.com/interstitial-journaling) and refering my current project on this week or tags more used.
-I'd like to avoid to type those things every time I changed the focus and subject on my journal, e.g. life/project/ABC or life/health/emotions, etc.
+This plugin came out of my need doing [interstitial-journaling](https://nesslabs.com/interstitial-journaling) and referring my current project on the current week or tags more used. I'd like to avoid typing those things every time I changed the focus and subject on my journal.
 
 The current alternatives, without this plugin, would be:
 
