@@ -1,3 +1,10 @@
+# Installation
+
+1. In Logseq, go to "Settings" -> "Advanced" and activate "Plug-in system".
+2. Click on three dots at the top-right corner and on "Plugins".
+3. Click on "Marketplace" button and type "quick references" in the search.
+4. Click "install".
+
 # Context
 
 This plugin came out of my need doing [interstitial-journaling](https://nesslabs.com/interstitial-journaling) and refering my current project on this week or tags more used.
