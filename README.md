@@ -3,7 +3,8 @@
 1. In Logseq, go to "Settings" -> "Advanced" and activate "Plug-in system".
 2. Click on three dots at the top-right corner and on "Plugins".
 3. Click on "Marketplace" button and type "quick references" in the search.
-4. Click "install".
+4. Look for the plugin named "Quick References" and a yellow thunder icon.
+5. Click "install".
 
 # Context
 
