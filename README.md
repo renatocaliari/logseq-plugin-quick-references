@@ -3,11 +3,18 @@
 This plugin came out of my need doing [interstitial-journaling](https://nesslabs.com/interstitial-journaling) and refering my current project on this week or tags more used.
 I'd like to avoid to type those things every time I changed the focus and subject on my journal, e.g. life/project/ABC or life/health/emotions, etc.
 
-# Using 
+The current alternatives, without this plugin, would be:
+
+- creating your own commands in the config.edn
+- creating alias on the pages you want to mention
+
+But both demands more work, and the second alternative asks for change in the content you write. 
+
+# Using this plugin
 ![Using this plugin](./using.gif)
 
-So I thought that I could have a quick slash command or shortcut.
-Initially I did slash commands from 1 to 9 quick references for each of my most important things to the moment:
+So I thought that I could have a quick slash command or some shortcut.
+Initially, for the first version, I did slash commands from 1 to 9 quick references for each of my most important things to the moment:
 - /q1 Quick Reference
 - /q2 Quick Reference
 ...
