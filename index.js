@@ -1,6 +1,6 @@
 import '@logseq/libs';
 
-const quickReferenceRegEx = /^(\#*? ?)Quick References$/;
+const quickReferenceRegEx = /^^(\#*? ?)Quick References(\\n)?/;
 
 async function insertQuickReference(e, idxReference) {
   let foundBlockQuickReference = false;
@@ -8,6 +8,7 @@ async function insertQuickReference(e, idxReference) {
   let pageContentsBlocks = await logseq.Editor.getPageBlocksTree('Contents');
   let quickReference = '';
 
+  console.log('pageContentsBlocks:', pageContentsBlocks);
   let blockQuickReference = pageContentsBlocks.find((b) => quickReferenceRegEx.test(b.content));
 
   if (blockQuickReference) {
