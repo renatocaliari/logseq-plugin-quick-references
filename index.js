@@ -1,6 +1,7 @@
 import '@logseq/libs';
 
-const quickReferenceRegEx = /^^(\#*? ?)Quick References(\\n)?/;
+
+const quickReferenceRegEx = /^^(\#*? ?)[Qq]uick [Rr]eference(s?)(\\n)?/;
 
 async function insertQuickReference(e, idxReference) {
   let foundBlockQuickReference = false;
