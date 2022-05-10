@@ -40,7 +40,7 @@ All you need to do is to create something in the Contents page like this example
 
 Note the lines under "Quick References". Each one corresponding to each slash command at the same order: /1 Quick Reference, /2 Quick Reference, /3 Quick Reference, etc.
 
-So, when you are typing and want to mention some page set in the Contents, you just need to use those commands. To use in a quick way and make sense of using this plugin for quick refenrece just type /q{number of reference}, like /q2 and press ENTER.
+So, when you are typing and want to mention some page set in the Contents, you just need to use those commands. To use in a quick way and make sense of using this plugin for quick reference just type /q{number of reference}, like /q2 and press ENTER.
 In this way is easy to change the references when needed.
 
 ## Example on interstitial-journaling where I could use quick reference to mention some project or tag
