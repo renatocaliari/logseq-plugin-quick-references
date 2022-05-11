@@ -17,7 +17,7 @@
     "@logseq/libs": "0.0.6"
   },
   "logseq": {
-    "id": "logseq-plugin-quick-reference",
+    "id": "logseq-plugin-quick-references",
     "title": "Quick References",
     "icon": "./icon.png"
   },
